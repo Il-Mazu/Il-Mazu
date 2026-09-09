@@ -1,4 +1,4 @@
-![Marco / Il-Mazu ](assets/banner.svg)
+![Marco / Il-Mazu ](assets/banner-student.svg)
 
 # Hey, I'm Marco.
 
