@@ -1,4 +1,4 @@
-![Marco / Il-Mazu — useful tools, strange interfaces, code, art and music](assets/banner.svg)
+![Marco / Il-Mazu ](assets/banner.svg)
 
 # Hey, I'm Marco.
 
