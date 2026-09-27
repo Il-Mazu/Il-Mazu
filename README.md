@@ -1,33 +1,16 @@
-![Marco / Il-Mazu ](assets/banner-student.svg)
-
-# Hey, I'm Marco.
+# Marco / Il-Mazu
 
 Computer science student building stuff for fun. I like software that solves a specific problem—and stealing from big corpos.
 
-**[Explore my desktop →](https://mazu.is-a.dev)** · **[Browse my projects](https://github.com/Il-Mazu?tab=repositories)**
+[mazu.is-a.dev](https://mazu.is-a.dev)
 
-## Pick something if you want
+## Projects
 
-| Project | What you can do with it | Built with |
-| :--- | :--- | :--- |
-| **[Mazu-space](https://github.com/Il-Mazu/Mazu-space)** |A retro desktop with draggable windows, music, a blog and CRT effects. **[Open website ↗](https://mazu.is-a.dev)** | React · Vite |
-| **[BibliotecAPP](https://github.com/Il-Mazu/BibliotecAPP)** | Browse a library, reserve available books and manage a catalog with Open Library metadata. | React · Express · MongoDB |
-| **[Discogs Auto Pricer](https://github.com/Il-Mazu/il-capitalista)** | Reprice an inventory CSV using Discogs suggestions, then review a separate change report. | Python |
-| **[Blitz Ad Blocker](https://github.com/Il-Mazu/blitz-ad-blocker)** | Launch Blitz on Windows with domain blocking and cosmetic filtering; switch back by launching normally. | PowerShell · JavaScript |
-
-### Smaller experiments
-
-[CryptoFix Shop](https://github.com/Il-Mazu/Cryptofix_officialSHOP) — a merchandise storefront UI prototype.  
-[Test-Engim](https://github.com/Il-Mazu/Test-Engim) — a Python interview exercise exploring random text-file mutation.
-
-## On the workbench
-
-Web interfaces, scripts that remove repetitive work, and projects around books and music.
-
-![Languages across my public original repositories, measured by GitHub's reported code bytes](assets/languages.svg)
-
-<sub>The chart measures repository code, not proficiency. Generated from GitHub's public API; the date is shown on the chart.</sub>
-
-## Say hello
-
-Tried one of my tools? Open an issue in that repository with what you were trying to do and what happened. Bug reports and concrete feature ideas help me decide what to improve next.
+- [Dè PerPortal](https://github.com/Il-Mazu/De-PerPortal) — Skylanders portal manager for Cemu.
+- [Wallpaper Theme](https://github.com/Il-Mazu/wallpaper-theme) — KDE colors that follow the wallpaper.
+- [Mazu-space](https://github.com/Il-Mazu/Mazu-space) — My desktop-style website and blog.
+- [BibliotecAPP](https://github.com/Il-Mazu/BibliotecAPP) — Library catalog and book reservations.
+- [il-capitalista](https://github.com/Il-Mazu/il-capitalista) — Discogs inventory CSV repricing.
+- [Blitz Ad Blocker](https://github.com/Il-Mazu/blitz-ad-blocker) — Ad filtering for the Windows Blitz app.
+- [CryptoFix Shop](https://github.com/Il-Mazu/Cryptofix_officialSHOP) — A merchandise page prototype.
+- [Test-Engim](https://github.com/Il-Mazu/Test-Engim) — A Python interview exercise.
